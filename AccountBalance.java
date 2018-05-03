@@ -1,6 +1,6 @@
-package com.igatepatni.lesson4;
+package com.cg;
 
-import com.igatepatni.lesson4.demo.Balance;
+import com.cg;
 
 class AccountBalance {
 	public static void main(String args[]) {
