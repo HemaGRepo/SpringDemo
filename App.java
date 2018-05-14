@@ -8,6 +8,6 @@ public class App
     {
 	for(int cnt=0;cnt<10;cnt++)
         System.out.println( "Hello World! .... "+cnt );
-		     System.out.println( "Thank You!" );
+		     System.out.println( "Thank You!...." );
     }
 }
