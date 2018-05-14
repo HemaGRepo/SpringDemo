@@ -6,8 +6,8 @@ public class App
 {
     public static void main( String[] args )
     {
-	for(int i=0;i<10;i++)
-        System.out.println( "Hello World! .... "+i );
+	for(int cnt=0;cnt<10;cnt++)
+        System.out.println( "Hello World! .... "+cnt );
 		     System.out.println( "Thank You!" );
     }
 }
